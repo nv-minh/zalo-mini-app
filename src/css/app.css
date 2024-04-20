@@ -1,0 +1,44 @@
+:root {
+  --zmp-primary-color: #9bd929;
+  --zmp-page-bg-color: #f4f5f6;
+  --custom-header: 55px;
+  --h-search-input: 50px;
+  --h-bottom-navigation: 48px;
+  --custom-header-search: 48px;
+  --h-bottom-content: 60px;
+  --h-order-tab: 55px;
+  --zmp-background-color: #f4f5f6;
+}
+
+.page {
+  padding: 16px 16px 96px 16px;
+}
+
+.section-container {
+  padding: 16px;
+  background: #ffffff;
+  border-radius: 8px;
+  margin-bottom: 24px;
+}
+
+.zaui-list-item {
+  cursor: pointer;
+}
+
+.bottom-navigation {
+  height: var(--h-bottom-navigation);
+}
+
+.bg-skeleton {
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
+.bg-background {
+  --tw-bg-opacity: 1;
+  background-color: rgb(255 255 255 / var(--tw-bg-opacity));
+}
+
+.border-background-primary {
+  --tw-border-opacity: 1;
+  border-color: rgb(245 245 245 / var(--tw-border-opacity));
+}
