@@ -45,7 +45,7 @@
     "@tailwindcss/line-clamp": "^0.4.4",
     "axios": "^1.4.0",
     "react-hook-form": "^7.45.0",
-    "react-query": "^3.39.3",
+    "react-query": "^3.39.3"
   },
   "devDependencies": {
     "@types/react": "^18.2.79",
